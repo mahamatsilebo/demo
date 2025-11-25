@@ -58,9 +58,4 @@ async function searchCity() {
 }
 
 
-https://raw.githubusercontent.com/DrDalwin/demo/main/api.js
-
-https://raw.githack.com/DrDalwin/demo/main/api.js
-
-
 
